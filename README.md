@@ -1,6 +1,10 @@
 # VMware K3s Starter
 
-A set of templates to get you started using VMware's vSphere API, Terraform, Packer, and K3s to build a Kubernetes cluster.
+A set of templates to get you started using Terraform's vSphere provider, Packer, and K3s to build and manage a  Kubernetes cluster.
+
+## Requirements
+
+- [Terraform](https://www.terraform.io/) 0.14+
 
 ## Getting Started
 
